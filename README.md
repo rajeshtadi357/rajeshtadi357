@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @rajeshtadi357
-- 👀 I’m interested in ....techspace
-- 🌱 I’m currently learning ...frontend dev by freecodecamp and java(dsa)by kunalkushwaha
+- 👀 I’m interested in ....frontend and devops engineering
+- 🌱 I’m currently learning ...frontend dev by freecodecamp and Devops by kunalkushwaha
 - 💞️ I’m looking to collaborate on ...
+- My Tech Stach ........ Html,Css, and Java 
 - 📫 How to reach me ...
 
 <!---
