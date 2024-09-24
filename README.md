@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rajeshtadi357
-- 👀 I’m interested in ....frontend and devops engineering
-- 🌱 I’m currently learning ...frontend dev by freecodecamp and Devops by kunalkushwaha
+- 👀 I’m interested in ....full-stack, devops and web3
+- 🌱 I’m currently learning ...full stack development from 100xdevs (harkirat singh)
 - 💞️ I’m looking to collaborate on ...
-- My Tech Stach ........ Html,Css, and Java 
+- My Tech Stach ........MERN
 - 📫 How to reach me ...
 
 <!---
